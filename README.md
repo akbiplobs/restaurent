@@ -1,2 +1,2 @@
 # restaurent
-https://akbiplobsa.github.io/restaurent/
+https://akbiplobs.github.io/restaurent/
